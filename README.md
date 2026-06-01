@@ -53,19 +53,6 @@
 
 ---
 
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rohitchoudhary740&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitchoudhary740&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-
 ## 🌱 Currently Learning
 
 * Agentic AI Workflows
