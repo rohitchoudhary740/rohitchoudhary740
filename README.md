@@ -40,10 +40,12 @@
 
 ### AI Engineering
 
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-008080?style=for-the-badge)
 
 ### Web Development
 
